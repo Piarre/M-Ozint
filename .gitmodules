@@ -1,0 +1,6 @@
+[submodule "Front"]
+	url = https://github.com/Piarre/N-Ozint/
+	path = "Front"
+[submodule "NFront"]
+	path = NFront
+	url = https://github.com/Piarre/N-Ozint
